@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kuldeeprwt64" target="blank"><img src="https://img.shields.io/twitter/follow/kuldeeprwt64?logo=twitter&style=for-the-badge" alt="kuldeeprwt64" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter e-commerce](https://github.com/KuldeepRawat64/flutter_ecommerce)
+- 🔭 I’m currently working on [Flutter Clean POC](https://github.com/KuldeepRawat64/clean_flutter_poc)
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Article Writing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
