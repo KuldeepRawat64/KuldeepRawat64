@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Minilo Design System](https://github.com/minilo-design/minilo-design-system)
 
-- 🌱 I’m currently learning **Article Writing**
+- 🌱 I’m currently learning **Gen AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
