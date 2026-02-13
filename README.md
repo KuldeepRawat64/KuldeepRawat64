@@ -13,8 +13,9 @@
 
 ---
 
-- 🔭 I’m currently working on [Minilo Design System](https://github.com/minilo-design/minilo-design-system)  
-- 🌱 I’m currently learning **Generative AI**
+- 🔭 I’m currently working on MiniloSWEBot 
+- 🌱 I’m currently an AI Engineer**
+- 🌱 I’m currently learning AGI**
 
 ---
 
